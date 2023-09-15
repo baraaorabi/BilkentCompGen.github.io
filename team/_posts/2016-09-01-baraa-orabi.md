@@ -11,6 +11,7 @@ website: http://baraaorabi.ca/
 image: /images/team/orabi.jpg
 cv: 
 alumni: true
+instagram: baraaorabi
 ---
 
 ### Education
@@ -25,7 +26,7 @@ alumni: true
 Baraa is now a Ph.D. candidate in Department of Computer Science at the [University of British Columbia](https://www.cs.ubc.ca/). He is a member of [Faraz Hach lab](https://hachlab.org/). 
 
 ### Publications
-
-- [**Fast and accurate matching of cellular barcodes across short-and long-reads of single-cell RNA-seq experiments**](https://www.sciencedirect.com/science/article/pii/S258900422200801X). Ghazal Ebrahimi, **Baraa Orabi**\*, Meghan Robinson, Cedric Chauve, Ryan Flannigan, Faraz Hach. *iScience*, 25 (7): 104530, 2022. *Co-first author
-- [**Freddie: Annotation-independent Detection and Discovery of Transcriptomic Alternative Splicing Isoforms**](https://www.biorxiv.org/content/10.1101/2021.01.20.427493v1). **Baraa Orabi**, Brian McConeghy, Cedric Chauve, Faraz Hach. bioRxiv, *accepted at RECOMB 2021*.
-- [**Alignment-free clustering of UMI tagged DNA molecules**](https://academic.oup.com/bioinformatics/article/35/11/1829/5142725). **Baraa Orabi**, Emre Erhan, Brian McConeghy, Stanislav V Volik, Stephane Le Bihan, Robert Bell, Colin C Collins, Cedric Chauve, and Faraz Hach. *Bioinformatics*, 2019.
+- [**TKSM: Highly modular, user-customizable, and scalable transcriptomic sequencing long-read simulator**](https://www.biorxiv.org/content/10.1101/2023.06.12.544410v1). Fatih Karaoglanoglu, **Baraa Orabi**, Cedric Chauve, Faraz Hach. *bioRxiv*, 2023.
+- [**Freddie: Annotation-independent Detection and Discovery of Transcriptomic Alternative Splicing Isoforms**](https://academic.oup.com/nar/article/51/2/e11/6882131). **Baraa Orabi**, Ning Xie, Brian McConeghy, Xuesen Dong, Cedric Chauve, Faraz Hach. *Nucleic Acids Research*, 2022. *Accepted at RECOMB 2021*.
+- [**Fast and accurate matching of cellular barcodes across short-and long-reads of single-cell RNA-seq experiments**](https://www.sciencedirect.com/science/article/pii/S258900422200801X). Ghazal Ebrahimi, **Baraa Orabi**, Meghan Robinson, Cedric Chauve, Ryan Flannigan, Faraz Hach. *iScience*, 2022.
+- [**Alignment-free clustering of UMI tagged DNA molecules**](https://academic.oup.com/bioinformatics/article/35/11/1829/5142725). **Baraa Orabi**, Emre Erhan, Brian McConeghy, Stanislav V Volik, Stephane Le Bihan, Robert Bell, Colin C Collins, Cedric Chauve, Faraz Hach. *Bioinformatics*, 2019. *Accepted at RECOMB-Seq 2018*.
